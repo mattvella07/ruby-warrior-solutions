@@ -1,2 +1,2 @@
 # ruby-warrior-solutions
-My solutions to the Ruby Warrior game
+These are my solutions to the [Ruby Warrior game](https://github.com/ryanb/ruby-warrior)
